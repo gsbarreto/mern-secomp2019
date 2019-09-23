@@ -12,6 +12,16 @@ No minicurso iremos aprender conceitos como:
 - Criação de uma SPA(Single Page Application)
 - Introdução a utilização do Socket.io
 
+## Instruções de execução do projeto
+Navegar com o terminal até a pasta backend
+
+Rodar o comando 
+> yarn
+Depois rodar comando
+> yarn start
+
+Iniciar outra instância do terminal ou uma nova aba e fazer o mesmo na pasta frontend
+
 ## Slides utilizados no curso
 
 [Desenvolvendo com React + Node](https://docs.google.com/presentation/d/1uM2Xev31BGypXKmV8I6hIRUDd2RUDDW-NFeGMfVIpqI/edit?usp=sharing)
