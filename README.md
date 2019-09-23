@@ -17,6 +17,7 @@ Navegar com o terminal até a pasta backend
 
 Rodar o comando 
 > yarn
+
 Depois rodar comando
 > yarn start
 
